@@ -1,0 +1,22 @@
+/* Create a webpage with the following:
+
+1. A heading with the name of your favorite Marvel superhero.
+2. A centered image of the superhero.
+3. A paragraph describing why that superhero is your favorite. */
+/* 4. Pick two colors for your superhero
+ and use one as the page backrgound color and the other as the text color. */
+
+ 
+ 
+ body {
+     background-color: royalblue;
+     color: red;
+ }
+
+ img {
+     width: 25%;
+     display: block;
+     margin: 10px;
+     padding: 10px;
+     border: 15px solid black;
+ }
